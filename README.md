@@ -144,6 +144,8 @@ Artist
 
 The resulting structure is exported as JSON.
 
+JSON was selected because the resulting data is hierarchical.
+
 ## Challenges and Lessons
 
 One of the main lessons from the project was that the difficulty of a data-preparation task does not necessarily come from writing the code.
