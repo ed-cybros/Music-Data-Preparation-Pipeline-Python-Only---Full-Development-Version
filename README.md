@@ -144,7 +144,7 @@ Artist
 
 The resulting structure is exported as JSON.
 
-JSON was selected because the resulting data is hierarchical.
+JSON was selected because the resulting data is hierarchical and naturally represented as an artist-level lookup structure.
 
 ## Challenges and Lessons
 
