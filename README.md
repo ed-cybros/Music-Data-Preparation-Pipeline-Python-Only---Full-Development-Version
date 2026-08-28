@@ -137,9 +137,9 @@ The final pipeline produces an artist-level lookup structure containing:
 
 ```text
 Artist
+├── Most frequent genre
 ├── Average popularity
-├── Average BPM
-└── Most frequent genre
+└── Average BPM
 ```
 
 The resulting structure is exported as JSON.
